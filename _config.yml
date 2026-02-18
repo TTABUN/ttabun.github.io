@@ -1,5 +1,5 @@
 title: My Engineering Blog
-name: Lee Y.W
+name: TTABUN
 description: AI / Robotics / Japan Exchange Student
 remote_theme: mmistakes/minimal-mistakes
 
@@ -12,8 +12,7 @@ paginate: 5
 paginate_path: /page:num/
 
 author:
-  name: Lee Y.W
-  avatar: /assets/profile.jpg
+  name: TTABUN
 
 
 plugins:
