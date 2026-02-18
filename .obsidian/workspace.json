@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/categories.md",
+                "file": "_posts/2026-02-18-test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "categories"
+              "title": "2026-02-18-test"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/categories.md",
+                "file": "_posts/2026-02-18-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "categories 의 백링크"
+              "title": "2026-02-18-test 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/categories.md",
+                "file": "_posts/2026-02-18-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "categories 의 나가는 링크"
+              "title": "2026-02-18-test 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/categories.md",
+                "file": "_posts/2026-02-18-test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "categories 의 개요"
+              "title": "2026-02-18-test 의 개요"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "595e849cb40f804a",
   "lastOpenFiles": [
-    "_posts/Test.md",
     "_pages/categories.md",
+    "_posts/Test.md",
+    "_posts/2026-02-18-test.md",
     "_pages",
     "무제 폴더",
     "_data/navigation.yml.sb-384771e6-Y3XIYn",
