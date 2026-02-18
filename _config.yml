@@ -15,3 +15,8 @@ author:
 
 plugins:
   - jekyll-include-cache
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
