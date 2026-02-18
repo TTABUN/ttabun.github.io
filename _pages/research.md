@@ -1,8 +1,7 @@
 ---
 title: "연구"
-layout: archive
+layout: category
 permalink: /research/
-taxonomy: categories
-taxonomy_term: research
+taxonomy: research
 author_profile: true
 ---

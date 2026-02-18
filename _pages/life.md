@@ -1,8 +1,7 @@
 ---
 title: "일상"
-layout: archive
+layout: category
 permalink: /life/
-taxonomy: categories
-taxonomy_term: life
+taxonomy: life
 author_profile: true
 ---
