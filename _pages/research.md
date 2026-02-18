@@ -1,8 +1,8 @@
 ---
 title: "연구"
-layout: categories
+layout: category
 permalink: /research/
 taxonomy: categories
+taxonomy_term: research
 entries_layout: list
-category: research
 ---

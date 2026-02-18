@@ -1,8 +1,8 @@
 ---
 title: "논문 읽기"
-layout: categories
+layout: category
 permalink: /paper/
 taxonomy: categories
+taxonomy_term: paper
 entries_layout: list
-category: paper
 ---
