@@ -1,8 +1,7 @@
 ---
 title: "논문 읽기"
-layout: category
+layout: archive
 permalink: /paper/
-taxonomy: categories
-taxonomy_term: paper
-entries_layout: list
+author_profile: true
 ---
+{% include category_archive %}
