@@ -14,3 +14,7 @@ paginate_path: /page:num/
 author:
   name: your_name
   avatar: /assets/profile.jpg
+
+
+plugins:
+  - jekyll-include-cache
