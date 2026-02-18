@@ -4,4 +4,5 @@ layout: categories
 permalink: /paper/
 taxonomy: categories
 entries_layout: list
+category: paper
 ---

@@ -4,4 +4,5 @@ layout: categories
 permalink: /life/
 taxonomy: categories
 entries_layout: list
+category: life
 ---

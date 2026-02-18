@@ -4,4 +4,5 @@ layout: categories
 permalink: /research/
 taxonomy: categories
 entries_layout: list
+category: research
 ---
