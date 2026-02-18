@@ -1,9 +1,9 @@
 main:
   - title: "논문 읽기"
-    url: /categories/paper/
+    url: /paper/
 
   - title: "연구"
-    url: /categories/research/
+    url: /research/
 
   - title: "일상"
-    url: /categories/life/
+    url: /life/

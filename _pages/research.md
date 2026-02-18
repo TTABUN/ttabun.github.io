@@ -1,7 +1,7 @@
 ---
 title: "연구"
 layout: categories
-permalink: /categories/research/
+permalink: /research/
 taxonomy: categories
 entries_layout: list
 ---

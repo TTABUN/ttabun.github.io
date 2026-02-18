@@ -1,7 +1,7 @@
 ---
 title: "논문 읽기"
 layout: categories
-permalink: /categories/paper/
+permalink: /paper/
 taxonomy: categories
 entries_layout: list
 ---
