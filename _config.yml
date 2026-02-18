@@ -1,3 +1,16 @@
 title: My Engineering Blog
+name: Lee Y.W
 description: AI / Robotics / Japan Exchange Student
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+
+minimal_mistakes_skin: "default"
+
+search: true
+breadcrumbs: true
+comments: false
+paginate: 5
+paginate_path: /page:num/
+
+author:
+  name: your_name
+  avatar: /assets/profile.jpg

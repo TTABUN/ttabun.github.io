@@ -1,0 +1,9 @@
+main:
+  - title: "논문 읽기"
+    url: /categories/paper/
+
+  - title: "연구"
+    url: /categories/research/
+
+  - title: "일상"
+    url: /categories/diary/
